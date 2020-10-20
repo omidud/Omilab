@@ -1,0 +1,8 @@
+E:\Programacion\C#\C# Repository\Omilab\Omilab\bin\Debug\Omilab.dll
+E:\Programacion\C#\C# Repository\Omilab\Omilab\bin\Debug\Omilab.pdb
+E:\Programacion\C#\C# Repository\Omilab\Omilab\bin\Debug\Newtonsoft.Json.dll
+E:\Programacion\C#\C# Repository\Omilab\Omilab\bin\Debug\Newtonsoft.Json.xml
+E:\Programacion\C#\C# Repository\Omilab\Omilab\obj\Debug\Omilab.csproj.CoreCompileInputs.cache
+E:\Programacion\C#\C# Repository\Omilab\Omilab\obj\Debug\Omilab.csproj.CopyComplete
+E:\Programacion\C#\C# Repository\Omilab\Omilab\obj\Debug\Omilab.dll
+E:\Programacion\C#\C# Repository\Omilab\Omilab\obj\Debug\Omilab.pdb

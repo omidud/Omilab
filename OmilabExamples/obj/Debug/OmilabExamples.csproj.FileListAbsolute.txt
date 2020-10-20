@@ -1,0 +1,12 @@
+E:\Programacion\C#\C# Repository\Omilab\OmilabExamples\bin\Debug\OmilabExamples.exe.config
+E:\Programacion\C#\C# Repository\Omilab\OmilabExamples\bin\Debug\OmilabExamples.exe
+E:\Programacion\C#\C# Repository\Omilab\OmilabExamples\bin\Debug\OmilabExamples.pdb
+E:\Programacion\C#\C# Repository\Omilab\OmilabExamples\bin\Debug\Omilab.dll
+E:\Programacion\C#\C# Repository\Omilab\OmilabExamples\bin\Debug\Newtonsoft.Json.dll
+E:\Programacion\C#\C# Repository\Omilab\OmilabExamples\bin\Debug\Omilab.pdb
+E:\Programacion\C#\C# Repository\Omilab\OmilabExamples\bin\Debug\Newtonsoft.Json.xml
+E:\Programacion\C#\C# Repository\Omilab\OmilabExamples\obj\Debug\OmilabExamples.csprojAssemblyReference.cache
+E:\Programacion\C#\C# Repository\Omilab\OmilabExamples\obj\Debug\OmilabExamples.csproj.CoreCompileInputs.cache
+E:\Programacion\C#\C# Repository\Omilab\OmilabExamples\obj\Debug\OmilabExamples.csproj.CopyComplete
+E:\Programacion\C#\C# Repository\Omilab\OmilabExamples\obj\Debug\OmilabExamples.exe
+E:\Programacion\C#\C# Repository\Omilab\OmilabExamples\obj\Debug\OmilabExamples.pdb
