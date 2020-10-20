@@ -40,5 +40,31 @@ namespace Omilab.Extensions
             return double.TryParse(input, out outDouble);
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="str">example:  "<title>my title</title>" </param>
+        /// <param name="startString">Example: "<title"</param>
+        /// <param name="endString">Example: "</title>"</param>
+        /// <returns>Example:  "my title"</returns>
+        public static string StringBetween(this String str, string startString, string endString)
+        {
+            string retorna = "";
+            int start = str.IndexOf(startString);
+
+            if (start > -1)
+            {
+                start += startString.Length;
+                int end = str.LastIndexOf(endString);
+                if (end > -1)
+                {
+                    retorna = str.Substring(start, end - start);
+                }
+            }
+
+            return retorna;
+
+        }
+
     }//end class
 }//end namespace
